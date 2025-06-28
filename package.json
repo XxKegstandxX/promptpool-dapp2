@@ -1,0 +1,18 @@
+{
+  "name": "promptpool-dapp",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^0.9.13",
+    "firebase": "^10.0.0",
+    "next": "13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "viem": "^1.0.2",
+    "wagmi": "^1.4.2"
+  }
+}
